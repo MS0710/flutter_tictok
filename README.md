@@ -1,16 +1,18 @@
-# flutter_tictok2
+Flutter 仿抖音APP
+-------------
 
-A new Flutter project.
+1.仿抖音UI設計APP
+2.含影片播放暫停功能
+3.上下滑動切換影片
 
-## Getting Started
+| 首頁 | pause |
+| :----: | :----: |
+| <img src="images/首頁.jpg" width="50%"> | <img src="images/pause.jpg" width="50%">|
 
-This project is a starting point for a Flutter application.
+| 發佈人 | 好友 |
+| :----: | :----: |
+| <img src="images/發佈人.jpg" width="50%"> | <img src="images/好友.jpg" width="50%">|
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| 收信夾 | 個人資料 |
+| :----: | :----: |
+| <img src="images/收信夾.jpg" width="50%"> | <img src="images/個人資料.jpg" width="50%">|
